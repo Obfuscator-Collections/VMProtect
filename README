@@ -1,3 +1,1 @@
-# VMProtect source code leak
-
-VMProtect source code leak (incomplete, some important files are still missing [core\processors.cc & core\intel.cc & maybe VMProtect.DDK part], but you can still see it as a reference on how to virtualize the code)
+VMProtect source code leak
