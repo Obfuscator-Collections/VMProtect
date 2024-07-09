@@ -2,8 +2,8 @@
 
 Missing files:
 
--- core\intel.cc
+-- ~~core\intel.cc~~
 
--- core\processors.cc
+-- ~~core\processors.cc~~
 
 -- (Maybe) VMProtect.DDK part
